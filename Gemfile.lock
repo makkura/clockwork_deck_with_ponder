@@ -1,0 +1,12 @@
+GEM
+  specs:
+    cinch (2.3.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cinch
+
+BUNDLED WITH
+   1.12.5
